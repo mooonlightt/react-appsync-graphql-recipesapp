@@ -1,5 +1,9 @@
 # React + AWS AppSync + GrapQL Recipe App 
 
+## Demo
+
+https://appsync-recipes.netlify.app/
+
 ## To run this project
 
 1. clone this repo    
